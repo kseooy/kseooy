@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=kseooy&utm_content=farm">
     <img
-      src="https://render.gitanimals.org/farms/kseooy"
+      src="https://render.gitanimals.org/farms/kseooy?v=2"
       width="600"
       height="300"
     />
